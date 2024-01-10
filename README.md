@@ -17,6 +17,8 @@ model_weight:https://1drv.ms/u/s!Auy8I-BCHDaJgRu5EgZjYlRf4PLY?e=46cLuw
 
 class.xlsx: Category, Clinical Data
 
+"You can obtain the lumbar spine segmentation results, localization results, and specific BMD for an individual patient through the 'predict.py' file."
+
 
 
 
