@@ -1,0 +1,8 @@
+{
+  "keypoints": ["center"],
+  "skeleton": [[1]],
+  "flip_pairs": [[1,1]],
+  "kps_weights": [1.0],
+  "upper_body_ids": [1],
+  "lower_body_ids": [1]
+}
