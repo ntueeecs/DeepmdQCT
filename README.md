@@ -3,7 +3,7 @@
 
 ## Environment configuration:
 * Python3.6/3.7/3.8 or higher
-* Ubuntu or Centos (Windows recommended)
+* Ubuntu or Windows
 * It is best to use GPU testing
 
 ## File Structure：
