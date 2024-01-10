@@ -1,5 +1,5 @@
 # DeepmdQCT
-# Paper:DeepmdQCT: A multitask network with domain invariant features and comprehensive attention mechanism for quantitative computer tomography diagnosis of osteoporosis
+# Paper: "DeepmdQCT: A multitask network with domain invariant features and comprehensive attention mechanism for quantitative computer tomography diagnosis of osteoporosis"
 
 ## Environment configuration:
 * Python3.6/3.7/3.8 or higher
